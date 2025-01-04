@@ -113,11 +113,10 @@
 <ul>
     <li>기타</li>
     <ul>
-        <li>교재 문제 연습 풀이 내용들</li>
-        <li>dg.js</li>
-        <li>event1.js</li>
-        <li>gop.js</li>
-        <li>timer.js</li>
-        <li>param.js</li>
+        <li>prettier: 막 적어도 자동으로 예쁘게 저장해줌</li>
+        <li>crtl + ',' 눌러서 설정창 들어온 후 검색창에 format on save 검색 그 다음에 Editor: Format on save 부분 체크</li>
+        <li>material icon 다운 후 선택 시 폴더 아이콘이 바뀜</li>
+        <li>error lens: 오류 설명해줌</li>
+        <li>ctrl + shift + p 로 live server 검색 후 실행 가능(.html에서 실행시켜야함)</li>
     </ul>
 </ul>
