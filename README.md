@@ -3,21 +3,21 @@
 <ol>
     <li>section01</li>
     <ul>
-        <li>ch3</li>
-        <li>ch4</li>
-        <li>ch5</li>
-        <li>ch6</li>
-      <li>ch7</li>
-      <li>ch8</li>
-      <li>ch9</li>
-      <li>ch10</li>
-      <li>ch11</li>
-      <li>ch12</li>
-      <li>ch13</li>
-      <li>ch14</li>
-      <li>ch15</li>
-      <li>ch16</li>
-      <li>ch17</li>
+        <li>ch3-hi</li>
+        <li>ch4-변수와 상수</li>
+        <li>ch5-자료형</li>
+        <li>ch6-형 변환</li>
+      <li>ch7-연산자1</li>
+      <li>ch8-연산자2</li>
+      <li>ch9-조건문</li>
+      <li>ch10-반복문</li>
+      <li>ch11-함수</li>
+      <li>ch12-함수 표현식과 화살표 함수</li>
+      <li>ch13-callback함수</li>
+      <li>ch14-scope</li>
+      <li>ch15-객체1</li>
+      <li>ch16-객체2</li>
+      <li>ch17-배열</li>
     </ul>
     <li>Section02</li>
     <ul>
