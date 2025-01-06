@@ -21,9 +21,17 @@
     </ul>
     <li>Section02</li>
     <ul>
-        <li>2주차 연습</li>
-        <li>표, 링크, 시맨틱 태그 등 추가</li>
-        <li>2주차 공부 내용 정리 추가</li>
+       <li>ch1-Truthy와 Falsy</li>
+        <li>ch2-단락 평가</li>
+        <li>ch3-구조분해할당</li>
+        <li>ch4-Spread 연산자와 Rest 매개변수</li>
+      <li>ch6-반복문으로 배열과 객체 순회하기</li>
+      <li>ch7-배열 메서드1.요소 조작</li>
+      <li>ch8-조건문</li>
+      <li>ch9-조건문</li>
+      <li>ch10-반복문</li>
+      <li>ch11-함수</li>
+      <li>ch12-함수 표현식과 화살표 함수</li>
     </ul>
     <li>week3.html</li>
     <ul>
