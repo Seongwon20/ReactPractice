@@ -33,18 +33,18 @@
       <li>ch11-함수</li>
       <li>ch12-함수 표현식과 화살표 함수</li>
     </ul>
-    <li>week3.html</li>
-    <ul>
-        <li>3주차 연습</li>
-        <li>CSS3 style 공부</li>
-        <li>3주차 공부 내용 정리 추가</li>
+    <li>Section03</li>
+      <ul>
+       <li>index.js-모듈</li>
+       <li>math.js-간단한 수학 함수와 모듈</li>
+       <li>node_module-라이브러리 사용해보기</li>
     </ul>
 </ol>
 
 <ul>
-    <li>Week 4.html</li>
-    <ul>
-        <li>Week4: 객체 생성 3가지 방법 연습</li>
+    <li>Section04</li>
+     <ul>
+       <li>React App 생성-간단한 이해</li>
     </ul>
 </ul>
 
