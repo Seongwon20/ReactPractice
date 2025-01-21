@@ -52,9 +52,7 @@
     <li>Week 5 연습</li>
     <ul>
         <li>State와 Props</li>
-        <li>(미니프로젝트) 카운터 앱</li>
-        
-       
+        <li>[미니프로젝트] 카운터 앱</li>
     </ul>
 </ul>
 
