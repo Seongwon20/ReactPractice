@@ -49,7 +49,7 @@
 </ul>
 
 <ul>
-    <li>Week 5 연습</li>
+    <li>Section05</li>
     <ul>
         <li>State와 Props</li>
         <li>[미니프로젝트] 카운터 앱</li>
@@ -57,7 +57,7 @@
 </ul>
 
 <ul>
-    <li>Week 6 연습</li>
+    <li>Section06</li>
     <ul>
         <li>[미니 프로젝트] 카운터 앱 추가 구현현</li>
     </ul>
