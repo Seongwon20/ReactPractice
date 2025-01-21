@@ -74,11 +74,10 @@
     <li>투두리스트</li>
     <ul>
         <li>1.UI</li>
-        <li>2.기능</li>
-        <li>Practice12-1.search: 교재 문제 12-1</li>
-        <li>Practice12-1.store: 교재 문제 12-1</li>
-        <li>Practice12-2-view.html: 교재 문제 12-2 세션 스토리지를 이용한 구입 리스트 검색</li>
-        <li>Practice12-2-store.html: 교재 문제 12-2 세션 스토리지를 이용한 구입 리스트 작성 및 저장</li>
+        <li>2.리스트 추가 기능</li>
+        <li>3.검색 렌더링</li>
+        <li>4.체크리스트</li>
+        <li>5.삭제 기능</li>
     </ul>
 </ul>
 
