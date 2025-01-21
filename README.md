@@ -71,16 +71,14 @@
 </ul>
 
 <ul>
-    <li>Week 9 연습</li>
+    <li>투두리스트</li>
     <ul>
-        <li>Practice11-2.html: 교재 문제 11-2</li>
-        <li>Practice11-5.html: 교재 문제 11-5</li>
+        <li>1.UI</li>
+        <li>2.기능</li>
         <li>Practice12-1.search: 교재 문제 12-1</li>
         <li>Practice12-1.store: 교재 문제 12-1</li>
         <li>Practice12-2-view.html: 교재 문제 12-2 세션 스토리지를 이용한 구입 리스트 검색</li>
         <li>Practice12-2-store.html: 교재 문제 12-2 세션 스토리지를 이용한 구입 리스트 작성 및 저장</li>
-        <li>Practice12-4-store.html: 교재 문제 12-4 로컬 스토리지를 이용한 일기쓰기 연습</li>
-        <li>Practice12-4-view.html: 교재 문제 12-4 로컬 스토리지를 이용한 일기보기 연습</li>
     </ul>
 </ul>
 
