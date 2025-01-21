@@ -59,23 +59,14 @@
 <ul>
     <li>Week 6 연습</li>
     <ul>
-        <li>ex9-10calculate.html: 교재 예제 9-10 따라해보기</li>
-        <li>ex9-17radio.html: 교재 예제 9-17 따라해보기</li>
-        <li>ex9-19.htmll: 교재 예제 select 객체에서 선택한 과일출력 따라해보기</li>
-        <li>Practice9-2.html: 교재 문제 9-2 라디오 버튼 클릭 시 그림 그리기</li>
-        <li>Practice9-3.html: 교재 문제 9-3 Enter 키 입력 시 입력된 수식 계산</li>
-        <li>Practice9-6.html: 교재 문제 9-6 마우스 휠에 따라 이미지의 확대/축소</li>
-        <li>Practice9-10.html: 교재 문제 9-10 계산기 만들기 연습</li>
+        <li>[미니 프로젝트] 카운터 앱 추가 구현현</li>
     </ul>
 </ul>
 
 <ul>
-    <li>Week 7 연습</li>
+    <li>section07</li>
     <ul>
-        <li>Practice10-1.html: 교재 문제 10-1</li>
-        <li>Practice10-2.html: 교재 문제 10-2</li>
-        <li>Practice10-3-1.html: 교재 문제 10-3-1</li>
-        <li>Practice10-5,6.html: 교재 문제 10-5, 10-6 클릭하면 멈추고 재실행되는 시계 만들기 연습</li>
+        <li>라이프사이클 useEffect 사용</li>
     </ul>
 </ul>
 
