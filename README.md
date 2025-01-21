@@ -51,11 +51,10 @@
 <ul>
     <li>Week 5 연습</li>
     <ul>
-        <li>Practice8-1.html: 교재 문제 8-1</li>
-        <li>Practice8-4.html: 교재 문제 8-4 클릭하면 답이 나오는 곱셈 연산</li>
-        <li>Practice8-6.html: 교재 문제 8-6 클릭하면 innerHTML로 작성하기</li>
-        <li>Practice8-9.html: 교재 문제 8-9 클릭하면 프롬프트로 라면 끓이는 순서 추가</li>
-        <li>Practice8-10.html: 교재 문제 8-10 클릭하면 정답을 동적으로 삽입하는 퀴즈</li>
+        <li>State와 Props</li>
+        <li>(미니프로젝트) 카운터 앱</li>
+        
+       
     </ul>
 </ul>
 
